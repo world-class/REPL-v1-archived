@@ -130,7 +130,7 @@
 
 #### What is my username to log in to the student's portal at my.london.ac.uk
 
-- Your username is the same as your student email address: `USERNAME@student.london.ac.uk`.
+- Your username is the same as your student email address: that would be `USERNAME` in the address `USERNAME@student.london.ac.uk`.
 
 #### When do I get access to the modules on Coursera
 
