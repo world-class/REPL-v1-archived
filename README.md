@@ -39,7 +39,7 @@ report it.</strong></p>
 
 # Most used resources (most to least)
 
-- [Notes from students, professors and more](https://github.com/world-class/REPL/tree/master/notes) (opens directly on GitHub).
+- [Notes from students, professors and more](https://github.com/world-class/notes) (opens directly on GitHub).
 - [Modules](https://github.com/world-class/REPL/tree/master/modules) (opens directly on GitHub).
 - [Documents and webpages of interest](uol_links) (only from the University of London)
 - [Websites to visit](websites)
