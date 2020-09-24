@@ -6,12 +6,12 @@
 - [Object-Oriented Programming](#object-oriented-programming)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Linux setup guide for OOP projects](#linux-setup-guide-for-oop-projects)
   - [Class diagram of starter code](#class-diagram-of-starter-code)
   - [Complementary learning](#complementary-learning)
     - [C&#43;&#43;](#c)
-  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [On REPL](#on-repl)
   - [Syllabus](#syllabus)
@@ -47,6 +47,10 @@ documentation.
 
 Coursework only (Type II)
 
+# Module specification
+
+- [OOP-Module-Spec.pdf](./OOP-Module-Spec.pdf)
+
 # Resources
 
 - :star: [Sourcetrail](https://www.sourcetrail.com) (Windows, macOS, Linux) - _"Free and open-source cross-platform source explorer"_. Supports C, C++, Java and Python.
@@ -67,10 +71,6 @@ Refer [Linux setup guide](./resources/linux_guide.md)
 ### C&#43;&#43;
 
 - [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Playlist by The Cherno
-
-## Module specification
-
-- [OOP-Module-Spec.pdf](./OOP-Module-Spec.pdf)
 
 ## Notes
 

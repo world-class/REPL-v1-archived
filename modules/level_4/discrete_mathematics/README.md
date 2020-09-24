@@ -6,6 +6,7 @@
 - [Discrete Mathematics](#discrete-mathematics)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Additional reading](#additional-reading)
   - [Complementary learning](#complementary-learning)
@@ -14,7 +15,6 @@
   - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
   - [Mathematical symbols](#mathematical-symbols)
-  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [On REPL](#on-repl)
   - [Supplementary videos](#supplementary-videos)
@@ -50,6 +50,10 @@ experimentation, reasoning and generalisation.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Module specification
+
+- [DM-Module-Spec.pdf](./resources/DM-Module-Spec.pdf)
 
 # Resources
 
@@ -102,10 +106,6 @@ _This course does not require you to read the whole book, you will be given spec
 
 - The [list of mathematical symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols) on Wikipedia is a handy reference. Chapter 1 of _Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Edition_ is outside the scope of the essential readings for this module, but provides a solid foundation to understand the notations and some proof techniques used during the course.
 - [Type mathematical symbols (online keyboard)](https://math.typeit.org) - Online keyboard to help with typing mathematical symbols.
-
-## Module specification
-
-- [DM-Module-Spec.pdf](./resources/DM-Module-Spec.pdf)
 
 ## Notes
 

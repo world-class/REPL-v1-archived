@@ -6,8 +6,8 @@
 - [Databases, Networks and the Web](#databases-networks-and-the-web)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
-  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [Websites](#websites)
   - [Syllabus](#syllabus)
@@ -43,11 +43,11 @@ communication.
 
 One two hour unseen written examination and coursework (Type I)
 
-# Resources
-
-## Module specification
+# Module specification
 
 - [DNW-Module-Spec.pdf](./DNW-Module-Spec.pdf)
+
+# Resources
 
 ## Notes
 

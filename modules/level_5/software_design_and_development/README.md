@@ -6,8 +6,7 @@
 - [Software Design and Development](#software-design-and-development)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Resources](#resources)
-  - [Module specification](#module-specification)
+- [Module specification](#module-specification)
 
 ---
 
@@ -44,8 +43,6 @@ software versioning tools to manage a software project as it develops.
 
 One two hour unseen written examination and coursework (Type I)
 
-# Resources
-
-## Module specification
+# Module specification
 
 - [SD-D-Module-Spec.pdf](./SD-D-Module-Spec.pdf)

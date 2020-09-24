@@ -6,7 +6,7 @@
 - [Agile Software Projects](#agile-software-projects)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Module specifications](#module-specifications)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Textbooks listed for this module](#textbooks-listed-for-this-module)
@@ -47,7 +47,7 @@ version control tools.
 
 Coursework only (Type III)
 
-# Module specifications
+# Module specification
 
 - [ASP-Module-Spec.pdf](./ASP-Module-Spec.pdf)
 

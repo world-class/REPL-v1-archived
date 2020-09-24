@@ -6,7 +6,7 @@
 - [Programming with Data](#programming-with-data)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Module specifications](#module-specifications)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
 
@@ -38,7 +38,7 @@ that is well-adapted to languages for these applications.
 
 One two hour unseen written examination and coursework (Type I)
 
-# Module specifications
+# Module specification
 
 - [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)
 

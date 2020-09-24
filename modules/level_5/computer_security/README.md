@@ -6,8 +6,7 @@
 - [Computer Security](#computer-security)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
-- [Resources](#resources)
-  - [Module specification](#module-specification)
+- [Module specification](#module-specification)
 
 ---
 
@@ -37,8 +36,6 @@ mathematics underlying the protocols by programming small examples.
 
 One two hour unseen written examination and coursework (Type I)
 
-# Resources
-
-## Module specification
+# Module specification
 
 - [CS-Module-Spec.pdf](./CS-Module-Spec.pdf)

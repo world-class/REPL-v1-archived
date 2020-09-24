@@ -6,10 +6,10 @@
 - [How Computers Work](#how-computers-work)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Essential reading](#essential-reading)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [Syllabus](#syllabus)
 
@@ -43,6 +43,10 @@ network services such as databases.
 
 One two hour unseen written examination and coursework (Type I)
 
+# Module specification
+
+- [HCW-Module-Spec.pdf](./resources/HCW-Module-Spec.pdf)
+
 # Resources
 
 ## Essential reading
@@ -58,10 +62,6 @@ _You will also be asked to do some independent research from online sources or u
 ## Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/how_computers_work/).
-
-## Module specification
-
-- [HCW-Module-Spec.pdf](./resources/HCW-Module-Spec.pdf)
 
 ## Notes
 

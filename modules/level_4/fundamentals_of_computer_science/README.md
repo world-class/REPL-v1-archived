@@ -6,13 +6,13 @@
 - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Essential reading](#essential-reading)
     - [Textbooks solutions](#textbooks-solutions)
       - [Discrete Mathematics and its Applications](#discrete-mathematics-and-its-applications)
       - [Introduction to Automata Theory, Languages, and Computation](#introduction-to-automata-theory-languages-and-computation)
-  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [Sample Paper with solutions](#sample-paper-with-solutions)
     - [March 2020](#march-2020)
@@ -52,6 +52,10 @@ systems.
 
 One two hour unseen written examination and coursework (Type I)
 
+# Module specification
+
+- [FCS-Module-Spec.pdf](./resources/FCS-Module-Spec.pdf)
+
 # Resources
 
 ## Complementary learning
@@ -86,10 +90,6 @@ _"Specific essential readings for each week from the following list are included
 #### Introduction to Automata Theory, Languages, and Computation
 
 - [Solutions to Selected Exercises - stanford.edu](http://infolab.stanford.edu/~ullman/ialcsols/sols.html)
-
-## Module specification
-
-- [FCS-Module-Spec.pdf](./resources/FCS-Module-Spec.pdf)
 
 ## Notes
 

@@ -6,12 +6,12 @@
 - [Web Development](#web-development)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Awesome learning resources](#awesome-learning-resources)
   - [Essential reading](#essential-reading)
   - [Games](#games)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Module specification](#module-specification)
   - [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
   - [Programming](#programming)
     - [JavaScript](#javascript)
@@ -50,6 +50,10 @@ Enrolled students only: [Course syllabus available on Coursera](https://www.cour
 
 Coursework only (Type III)
 
+# Module specification
+
+- [WD-Module-Spec.pdf](./resources/WD-Module-Spec.pdf)
+
 # Resources
 
 ## Awesome learning resources
@@ -78,10 +82,6 @@ _Specific readings for each topic are listed with direct links to free online re
 ## Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/web_development/).
-
-## Module specification
-
-- [WD-Module-Spec.pdf](./resources/WD-Module-Spec.pdf)
 
 ## On REPL (See sections on Web development)
 

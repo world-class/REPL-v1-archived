@@ -6,6 +6,7 @@
 - [Introduction to Programming II](#introduction-to-programming-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Case studies](#case-studies)
@@ -13,7 +14,6 @@
   - [Essential reading](#essential-reading)
   - [Getting started with HTML](#getting-started-with-html)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
-  - [Module specification](#module-specification)
   - [Notes](#notes)
   - [Syllabus](#syllabus)
 
@@ -41,6 +41,10 @@ developing code across multiple files and using third-party libraries.
 # Assessment
 
 Coursework only (Type III)
+
+# Module specification
+
+- [ITP2-Module-Spec.pdf](./resources/ITP2-Module-Spec.pdf)
 
 # Resources
 
@@ -72,10 +76,6 @@ _"There is no required textbook for this course. Listed below are some books to 
 ## Kinks to be aware of
 
 - [List of reported errors and bugs with the module](../../../kinks/level_4/introduction_to_programming_ii/).
-
-## Module specification
-
-- [ITP2-Module-Spec.pdf](./resources/ITP2-Module-Spec.pdf)
 
 ## Notes
 
