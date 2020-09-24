@@ -28,8 +28,6 @@ mathematical concepts and techniques that underpin Computer Science.
 In particular, you will study number systems, special functions,
 graphing and linear algebra.
 
-[Previous course syllabus](./resources/NM-Syllabus.pdf) (numerical mathematics).
-
 # Topics previously covered (numerical mathematics)
 
 - Number bases and modular arithmetic

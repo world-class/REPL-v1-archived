@@ -15,7 +15,6 @@
 - [How Computers Work](../kinks/level_4/how_computers_work/README.md)
 - [Introduction to Programming I](../kinks/level_4/introduction_to_programming_i/README.md)
 - [Introduction to Programming II](../kinks/level_4/introduction_to_programming_ii/README.md)
-- [Numerical Mathematics](../kinks/level_4/numerical_mathematics/README.md)
 - [Web Development](../kinks/level_4/web_development/README.md)
 
 As a great complimentary resource, don't forget to check out the `#bugs` channel on Slack.
