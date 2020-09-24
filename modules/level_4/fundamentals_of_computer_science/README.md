@@ -93,9 +93,9 @@ _"Specific essential readings for each week from the following list are included
 
 ## Notes
 
-- [students_notes/arjun_muralidharan/CM1025_FCS.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/arjun_muralidharan/CM1025_FCS.pdf)
-- [students_notes/felipe_balbi/notes.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/felipe_balbi/notes.pdf)
-- [students_notes/katherine_lambert/KL-1-12.pdf](../../../notes/level_4/fundamentals_of_computer_science/students_notes/katherine_lambert/KL-1-12.pdf)
+- [students_notes/arjun_muralidharan/CM1025_FCS.pdf](https://github.com/world-class/notes/tree/master/level_4/fundamentals_of_computer_science/students_notes/arjun_muralidharan/CM1025_FCS.pdf)
+- [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/fundamentals_of_computer_science/students_notes/felipe_balbi/notes.pdf)
+- [students_notes/katherine_lambert/KL-1-12.pdf](https://github.com/world-class/notes/tree/master/level_4/fundamentals_of_computer_science/students_notes/katherine_lambert/KL-1-12.pdf)
 
 ## Sample Paper with solutions
 

@@ -74,8 +74,8 @@ Refer [Linux setup guide](./resources/linux_guide.md)
 
 ## Notes
 
-- [student_notes/alex_f/notes.md](../../../notes/level_5/object-oriented-programming/student_notes/alex_f/notes.md)
-- [student_notes/felipe_balbi/notes.pdf](../../../notes/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
+- [student_notes/alex_f/notes.md](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming/student_notes/alex_f/notes.md)
+- [student_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_5/object-oriented-programming/student_notes/felipe_balbi/notes.pdf)
 
 ## On REPL
 
