@@ -6,8 +6,10 @@
 - [Agile Software Projects](#agile-software-projects)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specifications](#module-specifications)
 - [Resources](#resources)
-  - [Modules specification](#modules-specification)
+  - [Complementary learning](#complementary-learning)
+  - [Textbooks listed for this module](#textbooks-listed-for-this-module)
 
 ---
 
@@ -45,8 +47,18 @@ version control tools.
 
 Coursework only (Type III)
 
-# Resources
-
-## Modules specification
+# Module specifications
 
 - [ASP-Module-Spec.pdf](./ASP-Module-Spec.pdf)
+
+# Resources
+
+## Complementary learning
+
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+
+## Textbooks listed for this module
+
+- J. Preece, Y. Rogers and H. Sharp (2011), Interaction Design: Beyond Human-Computer Interaction, John Wiley & Sons
+- D. Norman, 2013, The Design of Everyday Things, MIT Press
+- Rob Cole and Edward Scotcher. Brilliant Agile Project Management. Pearson 2016
