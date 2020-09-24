@@ -6,9 +6,9 @@
 - [Programming with Data](#programming-with-data)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specifications](#module-specifications)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
-  - [Module specification](#module-specification)
 
 ---
 
@@ -38,12 +38,13 @@ that is well-adapted to languages for these applications.
 
 One two hour unseen written examination and coursework (Type I)
 
+# Module specifications
+
+- [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)
+
 # Resources
 
 ## Complementary learning
 
+- [Foundations of Data Science: K-Means Clustering in Python](https://www.coursera.org/learn/data-science-k-means-clustering-python) - Coursera, by Dr Matthew Yee-King +3 more instructors.
 - [Learn Python, Data Viz, Pandas & More on Kaggle](https://www.kaggle.com/learn/overview)
-
-## Module specification
-
-- [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)
