@@ -44,7 +44,7 @@ Coursework only (Type III)
 
 # Module specification
 
-- [ITP2-Module-Spec.pdf](./resources/ITP2-Module-Spec.pdf)
+- [ITP2-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1010_ITP2-Module-Spec.pdf)
 
 # Resources
 
@@ -83,4 +83,4 @@ _"There is no required textbook for this course. Listed below are some books to 
 
 ## Syllabus
 
-- [Syllabus PDF (October 2019)](./resources/ITP2-Syllabus.pdf)
+- [Syllabus PDF (October 2019)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1010_ITP2.pdf)

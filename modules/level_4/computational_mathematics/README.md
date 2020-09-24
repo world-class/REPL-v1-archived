@@ -53,7 +53,7 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Reading List
 
-- [Computational Mathematics Weekly Reading List PDF (April 2020)](./resources/cm_weekly_reading_list.pdf)
+- [Computational Mathematics Weekly Reading List PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/cm1015_cm/cm_weekly_reading_list.pdf)
 
 ## Notes
 
@@ -103,4 +103,4 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Syllabus
 
-- [Computational Math syllabus PDF (April 2020)](./resources/CM-Syllabus.pdf)
+- [Computational Math syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1015_CM.pdf)

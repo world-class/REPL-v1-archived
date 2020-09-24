@@ -40,7 +40,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [PwD-Module-Spec.pdf](./PwD-Module-Spec.pdf)
+- [PwD-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2015_PwD-Module-Spec.pdf)
 
 # Resources
 

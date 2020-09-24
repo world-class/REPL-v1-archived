@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/world-class/REPL/master/_assets/images/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
+<img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square)
 
@@ -41,7 +41,7 @@ report it.</strong></p>
 
 - [Notes from students, professors and more](https://github.com/world-class/notes) (opens directly on GitHub).
 - [Modules](https://github.com/world-class/REPL/tree/master/modules) (opens directly on GitHub).
-- [Documents and webpages of interest](uol_links) (only from the University of London)
+- [Documents and webpages of interest](https://github.com/world-class/binary-assets/blob/master/uol_documents/README.md) (only from the University of London)
 - [Websites to visit](websites)
 - [YouTube videos](youtube)
 
@@ -61,7 +61,7 @@ report it.</strong></p>
 - [Slack resources](slack) (channels to join, important information available, help with using Slack, etc.)
 - Subreddit: [r/UniversityOfLondonCS](https://www.reddit.com/r/UniversityOfLondonCS/)
   - [Subreddit Articles](subreddit): A series of in-depth, informative articles by /u/Yangchenghu, originally posted on Reddit. (Opens directly on GitHub)
-- [University of London documents](https://github.com/world-class/REPL/tree/master/uol_links). - See them all at a glance. (Opens directly on GitHub.)
+- [University of London documents](https://github.com/world-class/binary-assets/tree/master/uol_documents). - See them all at a glance. (Opens directly on GitHub.)
 
 <br />
 

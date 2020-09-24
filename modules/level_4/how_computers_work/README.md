@@ -45,7 +45,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [HCW-Module-Spec.pdf](./resources/HCW-Module-Spec.pdf)
+- [HCW-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1030_HCW-Module-Spec.pdf)
 
 # Resources
 
@@ -101,4 +101,4 @@ _You will also be asked to do some independent research from online sources or u
 
 ## Syllabus
 
-- [Syllabus PDF (April 2019)](./resources/syllabus_HCW_CM1030.pdf)
+- [Syllabus PDF (April 2019)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1030_HCW.pdf)

@@ -41,7 +41,7 @@ Coursework only (Type II)
 
 # Module specification
 
-- [GP-Module-Spec.pdf](./GP-Module-Spec.pdf)
+- [GP-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2030_GP-Module-Spec.pdf)
 
 # Resources
 
@@ -51,4 +51,4 @@ Coursework only (Type II)
 
 ## Syllabus
 
-- [Syllabus PDF (April 2020)](./GP-Syllabus-.pdf)
+- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2030_GP.pdf)

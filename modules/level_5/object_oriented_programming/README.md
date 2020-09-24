@@ -49,7 +49,7 @@ Coursework only (Type II)
 
 # Module specification
 
-- [OOP-Module-Spec.pdf](./OOP-Module-Spec.pdf)
+- [OOP-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2005_OOP-Module-Spec.pdf)
 
 # Resources
 
@@ -57,11 +57,11 @@ Coursework only (Type II)
 
 ## Linux setup guide for OOP projects
 
-Refer [Linux setup guide](./resources/linux_guide.md)
+Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/master/modules/cm2005_oop/linux_guide.md)
 
 ## Class diagram of starter code
 
-![class diagram of starter code](./resources/class_diagram_starter_code.png)
+![class diagram of starter code](https://github.com/world-class/binary-assets/blob/master/modules/cm2005_oop/class_diagram_starter_code.png?raw=true)
 
 ## Complementary learning
 

@@ -52,7 +52,7 @@ Coursework only (Type III)
 
 # Module specification
 
-- [WD-Module-Spec.pdf](./resources/WD-Module-Spec.pdf)
+- [WD-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
 
 # Resources
 
@@ -104,4 +104,4 @@ _Specific readings for each topic are listed with direct links to free online re
 
 ## Syllabus
 
-- [Syllabus PDF (April 2020)](./resources/WD-Syllabus.pdf)
+- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)

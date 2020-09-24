@@ -45,7 +45,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [DNW-Module-Spec.pdf](./DNW-Module-Spec.pdf)
+- [DNW-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2040_DNW-Module-Spec.pdf)
 
 # Resources
 
@@ -60,4 +60,4 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Syllabus
 
-- [Syllabus PDF (April 2020)](./DNW-Syllabus.pdf)
+- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)

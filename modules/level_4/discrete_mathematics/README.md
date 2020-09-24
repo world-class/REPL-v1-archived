@@ -34,7 +34,7 @@ experimentation, reasoning and generalisation.
 
 # Topics covered
 
-[See this fabulous mind map for more details](./resources/CM-1020_DM_mind_map.png).
+[See this fabulous mind map for more details](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/CM-1020_DM_mind_map.png).
 
 - Sets
 - Boolean Algebra
@@ -53,20 +53,20 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [DM-Module-Spec.pdf](./resources/DM-Module-Spec.pdf)
+- [DM-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1020_DM-Module-Spec.pdf)
 
 # Resources
 
 ## Additional reading
 
-- [A Guide to Writing Proofs](./resources/A_Guide_to_Writing_Proofs.pdf).
+- [A Guide to Writing Proofs](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/A_Guide_to_Writing_Proofs.pdf).
 - [Common Mistakes in Discrete Math](https://highered.mheducation.com/sites/0073383090/student_view0/common_mistakes_in_discrete_math.html) (from the companion website to the essential reading for the book _Discrete Mathematics and its Applications_).
 - [Discrete Mathematics Questions and Answers](https://www.sanfoundry.com/1000-discrete-mathematics-questions-answers) - _"Our 1000+ Discrete Mathematics questions and answers focuses on all areas of Discrete Mathematics subject covering 100+ topics in Discrete Mathematics."_
-- [Induction: going through examples (UoL students)](./resources/induction_example.pdf).
+- [Induction: going through examples (UoL students)](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/induction_example.pdf).
 - [Matching (Graph Theory)](https://brilliant.org/wiki/matching) - _"Definition, terminology, bipartite matching, examples."_
 - [Readings from MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/) on proofs, graph theory, recurrences, probability.
-- [Set Theory for Computer Science](./resources/set_theory_for_computer_science.pdf).
-- [Solving Linear Recurrence Relations](./resources/solving_linear_recurrence_relations.pdf) - From University of California, Berkeley, [from this page](https://math.berkeley.edu/~arash/55/8_2.pdf).
+- [Set Theory for Computer Science](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/set_theory_for_computer_science.pdf).
+- [Solving Linear Recurrence Relations](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/solving_linear_recurrence_relations.pdf) - From University of California, Berkeley, [from this page](https://math.berkeley.edu/~arash/55/8_2.pdf).
 - TrevTutor.com:
   - [Set theory, Logic, Counting, Proof techniques, relations and functions, number theory & formal language, with exams & solutions](https://trevtutor.com/discretemath/discretemath1/).
   - [Counting & probability, generating functions & recurrence relations, graph theory, with exams & solutions](https://trevtutor.com/discretemath/discrete-math-2/).
@@ -91,12 +91,8 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Examples of past and current written exams
 
-- [2014](./past_exams/DM14.pdf)
-- [2015](./past_exams/DM15.pdf)
-- [2016](./past_exams/DM16.pdf)
-- [2017](./past_exams/DM17.pdf)
-- [2018](./past_exams/DM18.pdf) ([answers are being compiled in this PDF](./past_exams/DM18_answers.pdf))
-- [2020](./past_exams/DM20.pdf) ([PDF with answers](./past_exams/DM20_answers.pdf)) — :lock: **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400)
+- 2014, 2015, 2016, 2017, 2018 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past_exams/cm1020_dm/DM18_answers.pdf)), 2020 ([PDF with answers](https://github.com/world-class/binary-assets/blob/master/modules/past_exams/cm1020_dm/DM20_answers.pdf)): [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past_exams/cm1020_dm).
+- :lock: [2020 written exam] **enrolled students**: answers are being compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2LKPW/p1582307389452400)
 
 ## Kinks to be aware of
 
@@ -216,8 +212,8 @@ _This course does not require you to read the whole book, you will be given spec
 
 ## Syllabus
 
-- [Syllabus PDF (October 2019)](./resources/Syllabus_Discrete_Mathematics_CM1020.pdf)
+- [Syllabus PDF (October 2019)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1020_DM.pdf)
 
 ## Weekly readings
 
-- [Reading by weeks and topics PDF](./resources/DM_Reading.pdf)
+- [Reading by weeks and topics PDF](https://github.com/world-class/binary-assets/blob/master/modules/cm1020_dm/DM_Reading.pdf)

@@ -110,7 +110,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 
 ## Mock exam
 
-- [Mock exam, 2020](./CM2035-ADS2_MOCK_Exam.pdf)
+- [Mock exam, 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm2035_ads2/CM2035-ADS2_MOCK_Exam.pdf)
 
 ### Solutions shared by students
 
@@ -126,4 +126,4 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 
 ## Syllabus
 
-- [Syllabus PDF April 2020](./ADS2-Syllabus.pdf)
+- [Syllabus PDF April 2020](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2035_ADS2.pdf)

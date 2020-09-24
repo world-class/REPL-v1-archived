@@ -111,12 +111,8 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Examples of past and current written exams
 
-- [2014 - 1](./past_exams/ADS14.pdf)
-- [2014 - 2](./past_exams/ADS14-2.pdf)
-- [2015](./past_exams/ADS15.pdf)
-- [2016](./past_exams/ADS16.pdf)
-- [2018](./past_exams/ADS18.pdf)
-- [2020](./past_exams/ADS20.pdf) - ([Official answers](./past_exams/ADS20_answers.pdf)) (:lock: **enrolled students**: more answers were compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800))
+- 2014, 2015, 2016, 2018, 2020: [Visit this page](https://github.com/world-class/binary-assets/tree/master/modules/past_exams/cm1035_ads1).
+- :lock: [2020 written exam] **enrolled students**: more answers were compiled on Slack, [see this thread](https://londoncs.slack.com/archives/CKZT2SR0U/p1582561904016800))
 
 ## Kinks to be aware of
 
@@ -138,4 +134,4 @@ _There will also be discussion prompts asking you to do some independent researc
 
 ## Syllabus
 
-- [Syllabus PDF (September 2020)](./resources/Syllabus_Algorithms_and_Data_Structures_1_CM1035.pdf)
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1035_ADS1.pdf)

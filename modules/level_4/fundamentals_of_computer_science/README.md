@@ -54,7 +54,7 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [FCS-Module-Spec.pdf](./resources/FCS-Module-Spec.pdf)
+- [FCS-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
 
 # Resources
 
@@ -101,9 +101,9 @@ _"Specific essential readings for each week from the following list are included
 
 ### March 2020
 
-- [FCS sample paper (mock)](./resources/FCS_Mock_exam_Mar_2020.pdf)
+- [FCS sample paper (mock)](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/FCS_Mock_exam_Mar_2020.pdf)
   - [Solutions (by students)](https://docs.google.com/document/d/1Pb86mf6FsSjkWS4qbh6B05EISP3KTbkQL46MZxvQ9qk/edit)
-- [FCS past exam March 2020](./resources/CM1025_Exam_Questions_March_2020.pdf)
+- [FCS past exam March 2020](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/CM1025_Exam_Questions_March_2020.pdf)
   - [Solutions (by students)](https://docs.google.com/spreadsheets/d/1YTfRO7cipoxUuxuYfWQrXslwBeJJ9Mlj3T9K3CNYl0w/edit#gid=0)
 
 ## Study guide
@@ -112,11 +112,11 @@ _"Specific essential readings for each week from the following list are included
 
 ## Syllabus
 
-- [Syllabus PDF (March 2020)](./resources/Syllabus_Fundamentals_of_Computer_Science_CM1025.pdf)
+- [Syllabus PDF (March 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
 
 ## Weekly reading list
 
-- [Weekly reading list PDF](./resources/FCS_reading_list.pdf)
+- [Weekly reading list PDF](https://github.com/world-class/binary-assets/blob/master/modules/cm1025_fcs/FCS_reading_list.pdf)
 
 ## Supplementary Videos
 
