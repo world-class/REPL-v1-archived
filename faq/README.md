@@ -553,7 +553,7 @@ For instance, for a question about predicate logic, you might see something like
 
 ### How can I contribute to this repository
 
-We're glad you asked! We have [contributing guidelines](https://github.com/world-class/REPL/blob/master/CONTRIBUTING.md) that you can check out to see where and how you might want to make a positive impact in the academic life of students enrolled in this degree :wink:.
+We're glad you asked! We have [contributing guidelines](https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md) that you can check out to see where and how you might want to make a positive impact in the academic life of students enrolled in this degree :wink:.
 
 ---
 

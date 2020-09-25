@@ -39,7 +39,7 @@ We must be able to understand the purpose of your change from this description. 
 <!--
 ### Requirements for Adding, Changing, or Removing a Feature
 
-To contribute an enhancement, please follow our guide for suggesting an enhancement: https://github.com/world-class/REPL/blob/master/CONTRIBUTING.md#suggesting-enhancements
+To contribute an enhancement, please follow our guide for suggesting an enhancement: https://github.com/world-class/REPL/blob/master/.github/CONTRIBUTING.md#suggesting-enhancements
 -->
 
 ### Description of the Change
