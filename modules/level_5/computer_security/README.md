@@ -38,4 +38,4 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [CS-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2025_CS-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2025_CS-Module-Spec.pdf)

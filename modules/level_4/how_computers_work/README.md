@@ -7,11 +7,11 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Essential reading](#essential-reading)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
   - [Notes](#notes)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -45,7 +45,11 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [HCW-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1030_HCW-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1030_HCW-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1030_HCW.pdf)
 
 # Resources
 
@@ -98,7 +102,3 @@ _You will also be asked to do some independent research from online sources or u
 - [students_notes/sukhjit_mann/How_Comps_Work_Week_8_8.1.pdf](https://github.com/world-class/notes/tree/master/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_8_8.1.pdf)
 - [students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2-Reading.pdf](https://github.com/world-class/notes/tree/master/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2-Reading.pdf)
 - [students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2.pdf](https://github.com/world-class/notes/tree/master/level_4/how_computers_work/students_notes/sukhjit_mann/How_Comps_Work_Week_9_9.1-9.2.pdf)
-
-## Syllabus
-
-- [Syllabus PDF (April 2019)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1030_HCW.pdf)

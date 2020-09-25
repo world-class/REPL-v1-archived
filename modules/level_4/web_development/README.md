@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Awesome learning resources](#awesome-learning-resources)
   - [Essential reading](#essential-reading)
@@ -15,7 +16,6 @@
   - [On REPL (See sections on Web development)](#on-repl-see-sections-on-web-development)
   - [Programming](#programming)
     - [JavaScript](#javascript)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -52,7 +52,11 @@ Coursework only (Type III)
 
 # Module specification
 
-- [WD-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)
 
 # Resources
 
@@ -101,7 +105,3 @@ _Specific readings for each topic are listed with direct links to free online re
   - [As EPUB](https://eloquentjavascript.net/Eloquent_JavaScript.epub);
   - [As MOBI](https://eloquentjavascript.net/Eloquent_JavaScript.mobi) (for Kindle).
 - [Handlebars Training](https://www.youtube.com/playlist?list=PLtV5RF44Yj8S4RcpQehL-2XMuVsJXwNvK), by Rich Finelli (YouTube playlist)
-
-## Syllabus
-
-- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1040_WD.pdf)

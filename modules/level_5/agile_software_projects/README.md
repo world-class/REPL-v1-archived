@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Textbooks listed for this module](#textbooks-listed-for-this-module)
@@ -49,7 +50,11 @@ Coursework only (Type III)
 
 # Module specification
 
-- [ASP-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2020_ASP-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2020_ASP-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2020_ASP-Module-Spec.pdf)
 
 # Resources
 

@@ -7,10 +7,10 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Notes](#notes)
   - [Websites](#websites)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -45,7 +45,11 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [DNW-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2040_DNW-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2040_DNW-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)
 
 # Resources
 
@@ -57,7 +61,3 @@ One two hour unseen written examination and coursework (Type I)
 ## Websites
 
 - [SQL Zoo - for interactive SQL practice problems](https://sqlzoo.net/)
-
-## Syllabus
-
-- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2040_DNW.pdf)

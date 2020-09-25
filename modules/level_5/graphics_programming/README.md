@@ -7,9 +7,9 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Notes](#notes)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -41,14 +41,14 @@ Coursework only (Type II)
 
 # Module specification
 
-- [GP-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2030_GP-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2030_GP-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2030_GP.pdf)
 
 # Resources
 
 ## Notes
 
 - [student_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_5/graphics_programming/student_notes/felipe_balbi/notes.pdf)
-
-## Syllabus
-
-- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2030_GP.pdf)

@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Additional reading](#additional-reading)
   - [Complementary learning](#complementary-learning)
@@ -18,7 +19,6 @@
   - [Notes](#notes)
   - [On REPL](#on-repl)
   - [Supplementary videos](#supplementary-videos)
-  - [Syllabus](#syllabus)
   - [Weekly readings](#weekly-readings)
 
 ---
@@ -53,7 +53,11 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [DM-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1020_DM-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1020_DM-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1020_DM.pdf)
 
 # Resources
 
@@ -209,10 +213,6 @@ _This course does not require you to read the whole book, you will be given spec
 | 15 & 16 Trees                   | Partly covered in Math for CS - MIT videos for 13/14.                                                                                                                                                                                                                                                                                                                                            |
 | 17 & 18 Relations               | [Math for CS - MIT (Lecture 11 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)                                                                                                                                                                                           |
 | 19 & 20 Combinatorics           | [Math for CS - MIT (Lecture 16 and 17 and reading from MCS notes)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)                                                                                                                                                                                    |
-
-## Syllabus
-
-- [Syllabus PDF (October 2019)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1020_DM.pdf)
 
 ## Weekly readings
 

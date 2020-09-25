@@ -6,6 +6,8 @@
 - [Introduction to Programming I](#introduction-to-programming-i)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Essential reading](#essential-reading)
   - [JavaScript](#javascript)
@@ -17,7 +19,6 @@
   - [Sleuth assignments](#sleuth-assignments)
     - [Tips & Tricks](#tips--tricks)
     - [Utils and aids (student created)](#utils-and-aids-student-created)
-  - [Syllabus](#syllabus)
   - [Text editor](#text-editor)
 
 # Introduction to Programming I
@@ -44,6 +45,14 @@ introduced to basic object-oriented programming techniques.
 # Assessment
 
 Coursework only (Type II)
+
+# Module specification
+
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1005_ITP1-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1005_ITP1.pdf)
 
 # Resources
 
@@ -91,10 +100,6 @@ _"Specific readings for each topic are listed with direct links to free online r
 
 - JavaScript library with visual aids for solving case 202 stage 4 [utils4sleuth.js](https://gist.github.com/amilos/beb1eee1cbd334f1e9abca8c9772c725).
 - Python program to create directories for Sleuth cases [Make-Sleuth-Folders.py](https://github.com/BlairCurrey/Make-Sleuth-Folders)
-
-## Syllabus
-
-- [Syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1005_ITP1.pdf)
 
 ## Text editor
 

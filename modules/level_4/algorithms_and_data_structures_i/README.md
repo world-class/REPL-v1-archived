@@ -6,6 +6,8 @@
 - [Algorithms and Data Structures I](#algorithms-and-data-structures-i)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
     - [Visualizations](#visualizations)
@@ -20,7 +22,6 @@
   - [Notes](#notes)
   - [On REPL](#on-repl)
   - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -57,6 +58,15 @@ and regarding their efficiency.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Module specification
+
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1035_ADS1-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1035_ADS1.pdf)
+
 
 # Resources
 
@@ -131,7 +141,3 @@ _There will also be discussion prompts asking you to do some independent researc
 ## Solutions to the textbook Introduction to Algorithms
 
 - [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr
-
-## Syllabus
-
-- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1035_ADS1.pdf)

@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Essential reading](#essential-reading)
@@ -17,7 +18,6 @@
   - [Sample Paper with solutions](#sample-paper-with-solutions)
     - [March 2020](#march-2020)
   - [Study guide](#study-guide)
-  - [Syllabus](#syllabus)
   - [Weekly reading list](#weekly-reading-list)
   - [Supplementary Videos](#supplementary-videos)
 
@@ -54,7 +54,11 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [FCS-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
 
 # Resources
 
@@ -109,10 +113,6 @@ _"Specific essential readings for each week from the following list are included
 ## Study guide
 
 - [Resources compiled by Hassan Sarhan](https://github.com/h-sarhan/FCS-study-guide).
-
-## Syllabus
-
-- [Syllabus PDF (March 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1025_FCS.pdf)
 
 ## Weekly reading list
 

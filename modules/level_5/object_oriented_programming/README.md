@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Linux setup guide for OOP projects](#linux-setup-guide-for-oop-projects)
   - [Class diagram of starter code](#class-diagram-of-starter-code)
@@ -14,7 +15,6 @@
     - [C&#43;&#43;](#c)
   - [Notes](#notes)
   - [On REPL](#on-repl)
-  - [Syllabus](#syllabus)
 - [IDE warning](#ide-warning)
 
 ---
@@ -49,7 +49,11 @@ Coursework only (Type II)
 
 # Module specification
 
-- [OOP-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2005_OOP-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2005_OOP-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2005_OOP.pdf)
 
 # Resources
 
@@ -81,10 +85,6 @@ Refer [Linux setup guide](https://github.com/world-class/binary-assets/blob/mast
 
 - [YouTube](../../../youtube/README.md).
   - [C++](../../../youtube/README.md#c-2).
-
-## Syllabus
-
-- [Syllabus PDF (April 2020)](./OOP-Syllabus.pdf)
 
 # IDE warning
 

@@ -6,12 +6,13 @@
 - [Computational Mathematics](#computational-mathematics)
 - [Topics previously covered (numerical mathematics)](#topics-previously-covered-numerical-mathematics)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
   - [Reading List](#reading-list)
   - [Notes](#notes)
     - [Numerical Mathematics (earlier iteration of the module)](#numerical-mathematics-earlier-iteration-of-the-module)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -44,6 +45,14 @@ graphing and linear algebra.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Module specification
+
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1015_CM-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1015_CM.pdf)
 
 # Resources
 
@@ -100,7 +109,3 @@ One two hour unseen written examination and coursework (Type I)
 - [students_notes/arjun_muralidharan/CM1015_NM.pdf](https://github.com/world-class/notes/tree/master/level_4/numerical_mathematics/students_notes/arjun_muralidharan/CM1015_NM.pdf)
 - [students_notes/hannes_seller/1015_numerical_mathematics.pdf](https://github.com/world-class/notes/tree/master/level_4/numerical_mathematics/students_notes/hannes_seller/1015_numerical_mathematics.pdf)
 - [students_notes/peter_houlihan/Notes_Pehoulihan.pdf](https://github.com/world-class/notes/tree/master/level_4/numerical_mathematics/students_notes/peter_houlihan/Notes_Pehoulihan.pdf)
-
-## Syllabus
-
-- [Computational Math syllabus PDF (April 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1015_CM.pdf)

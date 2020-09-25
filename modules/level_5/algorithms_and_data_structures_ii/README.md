@@ -6,6 +6,8 @@
 - [Algorithms and Data Structures II](#algorithms-and-data-structures-ii)
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
+- [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [List of required reading](#list-of-required-reading)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
@@ -13,7 +15,6 @@
     - [Solutions shared by students](#solutions-shared-by-students)
   - [Notes](#notes)
   - [Solutions to the textbook Introduction to Algorithms](#solutions-to-the-textbook-introduction-to-algorithms)
-  - [Syllabus](#syllabus)
 
 ---
 
@@ -49,6 +50,15 @@ Data Structures I before attempting this module.
 # Assessment
 
 One two hour unseen written examination and coursework (Type I)
+
+# Module specification
+
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2035_ADS2-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF September 2020](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2035_ADS2.pdf)
+
 
 # List of required reading
 
@@ -123,7 +133,3 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 ## Solutions to the textbook Introduction to Algorithms
 
 - [CLRS Solutions](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html) - Michelle Bodnar, Andrew Lohr
-
-## Syllabus
-
-- [Syllabus PDF April 2020](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2035_ADS2.pdf)

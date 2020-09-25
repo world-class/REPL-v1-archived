@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Case studies](#case-studies)
@@ -15,7 +16,6 @@
   - [Getting started with HTML](#getting-started-with-html)
   - [Kinks to be aware of](#kinks-to-be-aware-of)
   - [Notes](#notes)
-  - [Syllabus](#syllabus)
 
 # Introduction to Programming II
 
@@ -44,7 +44,11 @@ Coursework only (Type III)
 
 # Module specification
 
-- [ITP2-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1010_ITP2-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM1010_ITP2-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1010_ITP2.pdf)
 
 # Resources
 
@@ -80,7 +84,3 @@ _"There is no required textbook for this course. Listed below are some books to 
 ## Notes
 
 - [students_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_4/introduction_to_programming_ii/students_notes/felipe_balbi/notes.pdf)
-
-## Syllabus
-
-- [Syllabus PDF (October 2019)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM1010_ITP2.pdf)

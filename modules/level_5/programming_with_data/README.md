@@ -7,6 +7,7 @@
 - [Topics covered](#topics-covered)
 - [Assessment](#assessment)
 - [Module specification](#module-specification)
+- [Syllabus](#syllabus)
 - [Resources](#resources)
   - [Complementary learning](#complementary-learning)
 
@@ -40,7 +41,11 @@ One two hour unseen written examination and coursework (Type I)
 
 # Module specification
 
-- [PwD-Module-Spec.pdf](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2015_PwD-Module-Spec.pdf)
+- [Module specification (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/module_specification/CM2015_PWD-Module-Spec.pdf)
+
+# Syllabus
+
+- [Syllabus PDF (September 2020)](https://github.com/world-class/binary-assets/blob/master/modules/syllabi/Syllabus_CM2015_PWD.pdf)
 
 # Resources
 
