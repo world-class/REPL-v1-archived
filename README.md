@@ -128,7 +128,8 @@ report it.</strong></p>
 <thead>
 <tr>
 <th>Module name</th>
-<th>Module code</th>
+<th>Abbreviation</th>
+<th>Code</th>
 <th>Written exam?</th>
 <th>Slack channel</th>
 </tr>
@@ -136,48 +137,56 @@ report it.</strong></p>
 <tbody>
 <tr>
 <td><a href="modules/level_4/algorithms_and_data_structures_i">Algorithms and Data Structures I</a></td>
+<td><strong>ADS1</strong></td>
 <td><strong>CM1035</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1035-algos-data-i</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_4/computational_mathematics">Computational Mathematics</a> *</td>
+<td><strong>CM</strong></td>
 <td><strong>CM1015</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1015-computational-math</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_4/discrete_mathematics">Discrete Mathematics</a></td>
+<td><strong>DM</strong></td>
 <td><strong>CM1020</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1020-discrete-math</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_4/fundamentals_of_computer_science">Fundamentals of Computer Science</a></td>
+<td><strong>FCS</strong></td>
 <td><strong>CM1025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1025-fundamental-cs</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_4/how_computers_work">How Computers Work</a></td>
+<td><strong>HCW</strong></td>
 <td><strong>CM1030</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm1030-hcw</code> / <code>#rpl-google-it</code></td>
 </tr>
 <tr>
-<td><a href="modules/level_4/introduction_to_programming_ii">Introduction to Programming II</a></td>
-<td><strong>CM1010</strong></td>
-<td>No</td>
-<td><code>#cm1010-intro-prog-ii</code></td>
-</tr>
-<tr>
 <td><a href="modules/level_4/introduction_to_programming_i">Introduction to Programming I</a></td>
+<td><strong>ITP1</strong></td>
 <td><strong>CM1005</strong></td>
 <td>No</td>
 <td><code>#cm1005-intro-prog-i</code></td>
 </tr>
 <tr>
+<td><a href="modules/level_4/introduction_to_programming_ii">Introduction to Programming II</a></td>
+<td><strong>ITP2</strong></td>
+<td><strong>CM1010</strong></td>
+<td>No</td>
+<td><code>#cm1010-intro-prog-ii</code></td>
+</tr>
+<tr>
 <td><a href="modules/level_4/web_development">Web Development</a></td>
+<td><strong>WD</strong></td>
 <td><strong>CM1040</strong></td>
 <td>No</td>
 <td><code>#cm1040-web-dev</code></td>
@@ -195,7 +204,8 @@ report it.</strong></p>
 <thead>
 <tr>
 <th>Module name</th>
-<th>Module code</th>
+<th>Abbreviation</th>
+<th>Code</th>
 <th>Written exam?</th>
 <th>Slack channel</th>
 </tr>
@@ -203,48 +213,56 @@ report it.</strong></p>
 <tbody>
 <tr>
 <td><a href="modules/level_5/agile_software_projects">Agile Software Projects</a></td>
+<td><strong>ASP</strong></td>
 <td><strong>CM2020</strong></td>
 <td>No</td>
 <td><code>#cm2020-agile-software-projects</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/algorithms_and_data_structures_ii">Algorithms and Data Structures II</a></td>
+<td><strong>ADS2</strong></td>
 <td><strong>CM2035</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2035-algos-data-ii</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/computer_security">Computer Security</a></td>
+<td><strong>CS</strong></td>
 <td><strong>CM2025</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2025-computer-security</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/databases_networks_and_the_web">Databases, Networks and the Web</a></td>
+<td><strong>DNW</strong></td>
 <td><strong>CM2040</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2040-databases-networks-web</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/graphics_programming">Graphics Programming</a></td>
+<td><strong>GP</strong></td>
 <td><strong>CM2030</strong></td>
 <td>No</td>
 <td><code>#cm2030-graphics-programming</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/object_oriented_programming">Object Oriented Programming</a></td>
+<td><strong>OOP</strong></td>
 <td><strong>CM2005</strong></td>
 <td>No</td>
 <td><code>#cm2005-object-oriented-programming</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/programming_with_data">Programming with Data</a></td>
+<td><strong>PWD</strong></td>
 <td><strong>CM2015</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2015-programming-with-data</code></td>
 </tr>
 <tr>
 <td><a href="modules/level_5/software_design_and_development">Software Design and Development</a></td>
+<td><strong>SDD</strong></td>
 <td><strong>CM2010</strong></td>
 <td><strong>Yes</strong></td>
 <td><code>#cm2010-software-design-development</code></td>
@@ -496,6 +514,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
