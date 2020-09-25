@@ -37,13 +37,13 @@ report it.</strong></p>
 
 <br />
 
-# Most used resources (most to least)
+# Most used resources
 
 - [Notes from students, professors and more](https://github.com/world-class/notes) (opens directly on GitHub).
 - [Modules](https://github.com/world-class/REPL/tree/master/modules) (opens directly on GitHub).
-- [Documents and webpages of interest](https://github.com/world-class/binary-assets/blob/master/uol_documents/README.md) (only from the University of London)
-- [Websites to visit](websites)
 - [YouTube videos](youtube)
+- [Websites to visit](websites)
+- [Documents and webpages of interest](https://github.com/world-class/binary-assets/blob/master/uol_documents/README.md) (only from the University of London)
 
 # Other useful resources
 
