@@ -1,3 +1,22 @@
+<br />
+
+<h1>Looking for the REPL? Please visit <a href="https://github.com/world-class/REPL">this page</a>.</h1>
+
+<h2>This repository has been archived. It is now read-only.</h2>
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+<h1>Old stuff below!</h1>
+
+<img src="./1280px-Old_vintage_stuff_(41889974752).jpg" alt="old stuff"/>
+
+<a href="https://commons.wikimedia.org/wiki/File:Old_vintage_stuff_(41889974752).jpg" title="via Wikimedia Commons">spline splinson from Pfäfers, Switzerland</a> / <a href="https://creativecommons.org/licenses/by/2.0">CC BY</a>
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <img src="https://raw.githubusercontent.com/world-class/binary-assets/master/images/repl/repl.png" alt="REPL_logo" style="display: block; margin-left: auto; margin-right: auto; width: 100%;"/>
 
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/world-class/REPL/compare) ![GitHub](https://img.shields.io/github/license/world-class/REPL?style=flat-square)
